@@ -5,18 +5,18 @@ let etapas = [
     candidatos: [
       {
         numero: '38111',
-        nome: 'Batman',
+        nome: 'Fulano',
         partido: 'XYZ',
         fotos:[
-          {url: 'https://upload.wikimedia.org/wikipedia/pt/8/8d/Batman_por_Jim_Lee.jpg', legenda: 'Vereador', small: false}
+          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fillmore.jpg/100px-Fillmore.jpg', legenda: 'Vereador', small: false}
         ]
       },
       {
         numero: '77222',
-        nome: 'Wolverine',
-        partido: 'X-MEN',
+        nome: 'Ciclano',
+        partido: 'GHI',
         fotos:[
-          {url: 'https://upload.wikimedia.org/wikipedia/pt/thumb/c/c8/Marvelwolverine.jpg/200px-Marvelwolverine.jpg', legenda: 'Vereador'}
+          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/100px-Abraham_Lincoln_O-77_matte_collodion_print.jpg', legenda: 'Vereador'}
         ]
       },
     ]
@@ -27,20 +27,20 @@ let etapas = [
     candidatos: [
       {
         numero: '90',
-        nome: 'Dr. House',
+        nome: 'Beltrano',
         partido: 'ABC',
         fotos:[
-          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hugh_Laurie_2009.jpg/219px-Hugh_Laurie_2009.jpg', legenda: 'Prefeito'},
-          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Omar_Epps.jpg/240px-Omar_Epps.jpg', legenda: 'Vice-Prefeito', small: true}
+          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/100px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg', legenda: 'Prefeito'},
+          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/100px-Chester_Alan_Arthur.jpg', legenda: 'Vice-Prefeito', small: true}
         ]
       },
       {
         numero: '84',
-        nome: 'Jackie Chan',
+        nome: 'Fulano',
         partido: 'DEF',
         fotos:[
-          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jackie_Chan_July_2016.jpg/250px-Jackie_Chan_July_2016.jpg', legenda: 'Prefeito'},
-          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bruce_Lee_1973.jpg/230px-Bruce_Lee_1973.jpg', legenda: 'Vice-Prefeito', small: true}
+          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/100px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg', legenda: 'Prefeito'},
+          {url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gerald_Ford_presidential_portrait.jpg/100px-Gerald_Ford_presidential_portrait.jpg', legenda: 'Vice-Prefeito', small: true}
         ]
       },
     ]
